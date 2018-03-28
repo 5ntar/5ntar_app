@@ -193,6 +193,7 @@ body {
   font-size: 5em;
   color: #e1bee7;
   border-image: center;
+  margin-bottom: 0px;
 }
 .descripcion p{
   border-left: : 20px;
@@ -203,6 +204,7 @@ body {
   font-size: 17px;
   color: white;
   font-family: verdana;
+  margin-bottom: 50px;
 }
 
 .btn-secondary{
