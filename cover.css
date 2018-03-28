@@ -189,17 +189,14 @@ body {
 .encabezado h1{
   width: 100%;
   text-align: center;
-  float: center;
   font-size: 5em;
   color: #e1bee7;
-  border-image: center;
   margin-bottom: 0px;
 }
 .descripcion p{
-  border-left: : 20px;
+  border-left: 20px;
   margin-left: 50px;
   text-align: center;
-  float: center;
   line-height: normal;
   font-size: 17px;
   color: white;
