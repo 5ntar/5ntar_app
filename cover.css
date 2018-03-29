@@ -201,7 +201,7 @@ body {
   font-size: 17px;
   color: white;
   font-family: verdana;
-  margin-bottom: 48px;
+  margin-bottom: 43px;
 }
 
 .btn-secondary{
@@ -210,8 +210,9 @@ body {
   align-items: center;
   margin-left: 45px;
   margin-bottom: 0px;
-  font-size: 25px;
+  font-size: 26px;
   font-family: verdana;
+  text-decoratione:none;
 
 }
 #linkdenuncia{
