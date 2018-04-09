@@ -79,7 +79,7 @@ body {
 .nav-masthead .nav-link {
   padding: .25rem 0;
   padding-right: 10px;
-  font-weight: 700;
+  font-weight: 20;
   color: #e1bee7;
   background-color: transparent;
   border-bottom: .25rem solid transparent;
@@ -87,7 +87,7 @@ body {
   align-items: center;
   width: 100%;
   position: relative;
-  right: 130px;
+  right: 50%;
   border-right: 1px solid #bbb;
  
 }
@@ -179,15 +179,15 @@ body {
 .encabezado img{
   width: 45%;
   float: left;
-  max-width: 100%;
+  max-width: 70%;
   vertical-align: left;
   display: inline-block;
   border:10px;
   border-color: black;
-  margin-right: 50px;
+  margin-right: 5%;
 }
 .encabezado h1{
-  width: 100%;
+  width: 80%;
   text-align: center;
   font-size: 5em;
   color: #e1bee7;
